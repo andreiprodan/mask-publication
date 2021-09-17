@@ -1,3 +1,5 @@
+*This README document describes the script get_OG_fastas.py. A generic workflow description is provided in workflow_description.docx*
+
 # INPUT
 - input_table
 
